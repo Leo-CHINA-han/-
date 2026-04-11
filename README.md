@@ -1,2 +1,2 @@
 # -
-There are some messy things here; you can take them yourself if needed.
+The things here are placed very messily; you can take them yourself if needed.
