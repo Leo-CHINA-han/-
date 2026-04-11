@@ -1,2 +1,2 @@
 # -
-这里集成了一些我本人认为使用的工具
+Please keep the exe file and the config file in the same folder, otherwise it will report an error.
